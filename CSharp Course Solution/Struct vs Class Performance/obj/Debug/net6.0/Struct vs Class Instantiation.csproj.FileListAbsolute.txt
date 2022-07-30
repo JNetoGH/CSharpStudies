@@ -1,0 +1,5 @@
+C:\Dev\C# Course\CSharp Course Solution\Struct vs Class Instantiation\obj\Debug\net6.0\Struct vs Class Instantiation.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\Struct vs Class Instantiation\obj\Debug\net6.0\Struct vs Class Instantiation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\Struct vs Class Instantiation\obj\Debug\net6.0\Struct vs Class Instantiation.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Struct vs Class Instantiation\obj\Debug\net6.0\Struct vs Class Instantiation.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\Struct vs Class Instantiation\obj\Debug\net6.0\Struct vs Class Instantiation.csproj.CoreCompileInputs.cache

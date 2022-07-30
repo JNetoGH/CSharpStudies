@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\bin\Debug\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\bin\Debug\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\bin\Debug\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\bin\Debug\net6.0\Structs vs Classes.exe
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\bin\Debug\net6.0\Structs vs Classes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\bin\Debug\net6.0\Structs vs Classes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\bin\Debug\net6.0\Structs vs Classes.dll
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\bin\Debug\net6.0\Structs vs Classes.pdb
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\bin\Debug\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\bin\Debug\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\obj\Debug\net6.0\Structs vs Classes.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\obj\Debug\net6.0\Structs vs Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\obj\Debug\net6.0\Structs vs Classes.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\obj\Debug\net6.0\Structs vs Classes.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\obj\Debug\net6.0\Structs vs Classes.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\obj\Debug\net6.0\Structs vs Classes.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\obj\Debug\net6.0\Structs vs Classes.dll
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\obj\Debug\net6.0\refint\Structs vs Classes.dll
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\obj\Debug\net6.0\Structs vs Classes.pdb
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\obj\Debug\net6.0\Structs vs Classes.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\Structs vs Classes\obj\Debug\net6.0\ref\Structs vs Classes.dll

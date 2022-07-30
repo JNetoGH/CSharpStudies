@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\bin\Release\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\bin\Release\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\bin\Release\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\bin\Release\net6.0\CultureInfo IFormatProvider DateTime.exe
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\bin\Release\net6.0\CultureInfo IFormatProvider DateTime.deps.json
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\bin\Release\net6.0\CultureInfo IFormatProvider DateTime.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\bin\Release\net6.0\CultureInfo IFormatProvider DateTime.dll
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\bin\Release\net6.0\CultureInfo IFormatProvider DateTime.pdb
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\bin\Release\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\bin\Release\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\obj\Release\net6.0\CultureInfo IFormatProvider DateTime.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\obj\Release\net6.0\CultureInfo IFormatProvider DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\obj\Release\net6.0\CultureInfo IFormatProvider DateTime.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\obj\Release\net6.0\CultureInfo IFormatProvider DateTime.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\obj\Release\net6.0\CultureInfo IFormatProvider DateTime.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\obj\Release\net6.0\CultureInfo IFormatProvider DateTime.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\obj\Release\net6.0\CultureInfo IFormatProvider DateTime.dll
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\obj\Release\net6.0\refint\CultureInfo IFormatProvider DateTime.dll
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\obj\Release\net6.0\CultureInfo IFormatProvider DateTime.pdb
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\obj\Release\net6.0\CultureInfo IFormatProvider DateTime.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\CultureInfo IFormatProvider DateTime\obj\Release\net6.0\ref\CultureInfo IFormatProvider DateTime.dll

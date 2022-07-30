@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Arrays/1.0.0": {
+        "dependencies": {
+          "GeneralRes": "1.0.0"
+        },
+        "runtime": {
+          "Arrays.dll": {}
+        }
+      },
+      "GeneralRes/1.0.0": {
+        "runtime": {
+          "GeneralRes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeneralRes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

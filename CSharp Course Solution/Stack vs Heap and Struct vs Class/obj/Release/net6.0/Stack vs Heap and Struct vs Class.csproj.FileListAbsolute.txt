@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\bin\Release\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\bin\Release\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\bin\Release\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\bin\Release\net6.0\Stack vs Heap and Struct vs Class.exe
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\bin\Release\net6.0\Stack vs Heap and Struct vs Class.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\bin\Release\net6.0\Stack vs Heap and Struct vs Class.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\bin\Release\net6.0\Stack vs Heap and Struct vs Class.dll
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\bin\Release\net6.0\Stack vs Heap and Struct vs Class.pdb
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\bin\Release\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\bin\Release\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\obj\Release\net6.0\Stack vs Heap and Struct vs Class.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\obj\Release\net6.0\Stack vs Heap and Struct vs Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\obj\Release\net6.0\Stack vs Heap and Struct vs Class.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\obj\Release\net6.0\Stack vs Heap and Struct vs Class.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\obj\Release\net6.0\Stack vs Heap and Struct vs Class.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\obj\Release\net6.0\Stack vs Heap and Struct vs Class.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\obj\Release\net6.0\Stack vs Heap and Struct vs Class.dll
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\obj\Release\net6.0\refint\Stack vs Heap and Struct vs Class.dll
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\obj\Release\net6.0\Stack vs Heap and Struct vs Class.pdb
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\obj\Release\net6.0\Stack vs Heap and Struct vs Class.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\Stack vs Heap and Struct vs Class\obj\Release\net6.0\ref\Stack vs Heap and Struct vs Class.dll

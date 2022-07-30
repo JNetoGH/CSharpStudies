@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\bin\Debug\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\bin\Debug\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\bin\Debug\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\bin\Debug\net6.0\Classes Heap Structs Stack.exe
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\bin\Debug\net6.0\Classes Heap Structs Stack.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\bin\Debug\net6.0\Classes Heap Structs Stack.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\bin\Debug\net6.0\Classes Heap Structs Stack.dll
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\bin\Debug\net6.0\Classes Heap Structs Stack.pdb
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\bin\Debug\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\bin\Debug\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\obj\Debug\net6.0\Classes Heap Structs Stack.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\obj\Debug\net6.0\Classes Heap Structs Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\obj\Debug\net6.0\Classes Heap Structs Stack.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\obj\Debug\net6.0\Classes Heap Structs Stack.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\obj\Debug\net6.0\Classes Heap Structs Stack.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\obj\Debug\net6.0\Classes Heap Structs Stack.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\obj\Debug\net6.0\Classes Heap Structs Stack.dll
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\obj\Debug\net6.0\refint\Classes Heap Structs Stack.dll
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\obj\Debug\net6.0\Classes Heap Structs Stack.pdb
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\obj\Debug\net6.0\Classes Heap Structs Stack.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\Classes Heap Structs Stack\obj\Debug\net6.0\ref\Classes Heap Structs Stack.dll
