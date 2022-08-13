@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\bin\Release\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\bin\Release\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\bin\Release\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\bin\Release\net6.0\b. RefReturn.exe
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\bin\Release\net6.0\b. RefReturn.deps.json
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\bin\Release\net6.0\b. RefReturn.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\bin\Release\net6.0\b. RefReturn.dll
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\bin\Release\net6.0\b. RefReturn.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\bin\Release\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\bin\Release\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\obj\Release\net6.0\b. RefReturn.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\obj\Release\net6.0\b. RefReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\obj\Release\net6.0\b. RefReturn.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\obj\Release\net6.0\b. RefReturn.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\obj\Release\net6.0\b. RefReturn.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\obj\Release\net6.0\b. RefReturn.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\obj\Release\net6.0\b. RefReturn.dll
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\obj\Release\net6.0\refint\b. RefReturn.dll
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\obj\Release\net6.0\b. RefReturn.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\obj\Release\net6.0\b. RefReturn.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\b. RefReturn\obj\Release\net6.0\ref\b. RefReturn.dll

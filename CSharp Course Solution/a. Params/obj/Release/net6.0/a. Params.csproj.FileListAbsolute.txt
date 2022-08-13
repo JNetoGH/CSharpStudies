@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\a. Params\bin\Release\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\a. Params\bin\Release\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\a. Params\bin\Release\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\a. Params\bin\Release\net6.0\a. Params.exe
+C:\Dev\C# Course\CSharp Course Solution\a. Params\bin\Release\net6.0\a. Params.deps.json
+C:\Dev\C# Course\CSharp Course Solution\a. Params\bin\Release\net6.0\a. Params.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\a. Params\bin\Release\net6.0\a. Params.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Params\bin\Release\net6.0\a. Params.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Params\bin\Release\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Params\bin\Release\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Params\obj\Release\net6.0\a. Params.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Params\obj\Release\net6.0\a. Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\a. Params\obj\Release\net6.0\a. Params.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Params\obj\Release\net6.0\a. Params.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\a. Params\obj\Release\net6.0\a. Params.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Params\obj\Release\net6.0\a. Params.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\a. Params\obj\Release\net6.0\a. Params.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Params\obj\Release\net6.0\refint\a. Params.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Params\obj\Release\net6.0\a. Params.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Params\obj\Release\net6.0\a. Params.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Params\obj\Release\net6.0\ref\a. Params.dll

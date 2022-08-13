@@ -7,42 +7,47 @@
 //░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 namespace Properties;
+
 internal class Student {
     
-    // BACKING FIELDS: A basic pattern for implementing properties is to use a private backing field for
+    //! BACKING FIELDS
+    // A basic pattern for implementing properties is to use a private backing field for
     // setting and retrieving the property value. 
     private string _firstName = "Default"; // Field also called as "backing field" 
-    public string FirstName { // Property            
-        get { // get: automatically capitalizes the name                                                    
+    public string FirstName {              // Property            
+        get {                              // get: automatically capitalizes the name                                                    
             _firstName = _firstName.ToLower();
             char firstCharAsUpper = _firstName[0].ToString().ToUpper().ToCharArray()[0];
             _firstName = firstCharAsUpper + _firstName.Substring(1);
             return _firstName;
         }
-        set { // set: checks if its a null or empty string input 
+        set {                              // set: checks if its a null or empty string input 
             if (string.IsNullOrEmpty(value)) throw new Exception("Invalid Name");
             else _firstName = value;
         }
     }
 
-    // EXPRESSION BODY DEFINITIONS: the get and the set accessor can be implemented as expression-bodied members
-    // An Expression Body Definition consist of the => followed by the expression "an assign, return, method call..." 
-    // OBS: E.B.D don't use the return keyword for returning, for instance, "=> 12" returns 12.
+    //! PROPERTIES WITH EXPRESSION BODY DEFINITIONS
+    // The get and the set accessor can be implemented as expression-bodied members
+    // OBS: E.B.Definitions don't use the return keyword for returning, for instance, "=> 12" returns 12.
     private int? _age; 
     public int? Age { // Access Modifiers "like private" can be used with the get, set and init accessors
         get => _age; 
         private set => _age = value >= 0 ? value : null; 
     }
-
-    // PROPERTY AS EXPRESSION-BODIED MEMBER: read-only properties can implement the get accessor as an expression
+    
+    //! PROPERTY AS EXPRESSION-BODIED MEMBER
+    // Read-only properties can implement the get accessor as an expression
     public bool IsAboveOr18 => Age >= 18;
    
-    // AUTO-IMPLEMENTED PROPERTIES: a Property with a get and a (set or init) accessors that just assign a value to or
+    //! AUTO-IMPLEMENTED PROPERTIES
+    // A Property with a get and a (set or init) accessors that just assign a value to or
     // retrieve a value from a backing field, can be written as auto-implemented properties, by doing so, the compiler
     // will create the field, without the need to write the field
     public int Password { get; private set; }
     
-    // INIT ACCESSOR: This enforces immutability, allows a value assignment only once at object constructions
+    //! INIT ACCESSOR
+    // This enforces immutability, allows a value assignment only once at object constructions
     public int Id { get; init; }
     
     public Student(string firstName, int? age, int id) { FirstName = firstName; Age = age; Id = id; }
@@ -50,6 +55,7 @@ internal class Student {
         $"name: {FirstName} \nage: {(Age != null ? Age : "null")} \n" +
         $"is above or 18? {IsAboveOr18} \nId: {Id}";
 }
+
 internal class Exec {
     public static void Main(string[] args) {
         Console.WriteLine();

@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\bin\Release\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\bin\Release\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\bin\Release\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\bin\Release\net6.0\a. RefLocals.exe
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\bin\Release\net6.0\a. RefLocals.deps.json
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\bin\Release\net6.0\a. RefLocals.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\bin\Release\net6.0\a. RefLocals.dll
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\bin\Release\net6.0\a. RefLocals.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\bin\Release\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\bin\Release\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\obj\Release\net6.0\a. RefLocals.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\obj\Release\net6.0\a. RefLocals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\obj\Release\net6.0\a. RefLocals.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\obj\Release\net6.0\a. RefLocals.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\obj\Release\net6.0\a. RefLocals.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\obj\Release\net6.0\a. RefLocals.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\obj\Release\net6.0\a. RefLocals.dll
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\obj\Release\net6.0\refint\a. RefLocals.dll
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\obj\Release\net6.0\a. RefLocals.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\obj\Release\net6.0\a. RefLocals.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\a. RefLocals\obj\Release\net6.0\ref\a. RefLocals.dll

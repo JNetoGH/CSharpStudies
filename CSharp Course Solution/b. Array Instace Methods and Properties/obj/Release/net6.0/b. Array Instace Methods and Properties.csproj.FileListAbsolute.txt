@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\bin\Release\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\bin\Release\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\bin\Release\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\bin\Release\net6.0\b. Array Instace Methods and Properties.exe
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\bin\Release\net6.0\b. Array Instace Methods and Properties.deps.json
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\bin\Release\net6.0\b. Array Instace Methods and Properties.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\bin\Release\net6.0\b. Array Instace Methods and Properties.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\bin\Release\net6.0\b. Array Instace Methods and Properties.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\bin\Release\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\bin\Release\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\obj\Release\net6.0\b. Array Instace Methods and Properties.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\obj\Release\net6.0\b. Array Instace Methods and Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\obj\Release\net6.0\b. Array Instace Methods and Properties.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\obj\Release\net6.0\b. Array Instace Methods and Properties.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\obj\Release\net6.0\b. Array Instace Methods and Properties.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\obj\Release\net6.0\b. Array Instace Methods and Properties.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\obj\Release\net6.0\b. Array Instace Methods and Properties.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\obj\Release\net6.0\refint\b. Array Instace Methods and Properties.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\obj\Release\net6.0\b. Array Instace Methods and Properties.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\obj\Release\net6.0\b. Array Instace Methods and Properties.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Array Instace Methods and Properties\obj\Release\net6.0\ref\b. Array Instace Methods and Properties.dll

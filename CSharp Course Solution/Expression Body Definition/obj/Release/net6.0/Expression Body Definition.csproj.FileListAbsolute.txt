@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\bin\Release\net6.0\Expression Body Definition.exe
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\bin\Release\net6.0\Expression Body Definition.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\bin\Release\net6.0\Expression Body Definition.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\bin\Release\net6.0\Expression Body Definition.dll
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\bin\Release\net6.0\Expression Body Definition.pdb
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\obj\Release\net6.0\Expression Body Definition.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\obj\Release\net6.0\Expression Body Definition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\obj\Release\net6.0\Expression Body Definition.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\obj\Release\net6.0\Expression Body Definition.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\obj\Release\net6.0\Expression Body Definition.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\obj\Release\net6.0\Expression Body Definition.dll
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\obj\Release\net6.0\refint\Expression Body Definition.dll
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\obj\Release\net6.0\Expression Body Definition.pdb
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\obj\Release\net6.0\Expression Body Definition.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\obj\Release\net6.0\ref\Expression Body Definition.dll
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\bin\Release\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\bin\Release\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\bin\Release\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\bin\Release\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\bin\Release\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\Expression Body Definition\obj\Release\net6.0\Expression Body Definition.csproj.CopyComplete
