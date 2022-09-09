@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "a. Properties/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GeneralRes": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/a. Properties.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/a. Properties.dll": {}
+        }
+      },
+      "GeneralRes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GeneralRes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GeneralRes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "a. Properties/1.0.0": {
+      "type": "project",
+      "path": "../a. Properties/a. Properties.csproj",
+      "msbuildProject": "../a. Properties/a. Properties.csproj"
+    },
+    "GeneralRes/1.0.0": {
+      "type": "project",
+      "path": "../GeneralRes/GeneralRes.csproj",
+      "msbuildProject": "../GeneralRes/GeneralRes.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "a. Properties >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\JNeto\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Dev\\C# Course\\CSharp Course Solution\\b. Auto-Implemented Properties\\b. Auto-Implemented Properties.csproj",
+      "projectName": "b. Auto-Implemented Properties",
+      "projectPath": "C:\\Dev\\C# Course\\CSharp Course Solution\\b. Auto-Implemented Properties\\b. Auto-Implemented Properties.csproj",
+      "packagesPath": "C:\\Users\\JNeto\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\C# Course\\CSharp Course Solution\\b. Auto-Implemented Properties\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\JNeto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Dev\\C# Course\\CSharp Course Solution\\a. Properties\\a. Properties.csproj": {
+              "projectPath": "C:\\Dev\\C# Course\\CSharp Course Solution\\a. Properties\\a. Properties.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

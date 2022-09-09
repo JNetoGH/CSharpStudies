@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\bin\Debug\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\bin\Debug\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\bin\Debug\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\bin\Debug\net6.0\a. Array Types.exe
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\bin\Debug\net6.0\a. Array Types.deps.json
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\bin\Debug\net6.0\a. Array Types.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\bin\Debug\net6.0\a. Array Types.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\bin\Debug\net6.0\a. Array Types.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\bin\Debug\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\bin\Debug\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\obj\Debug\net6.0\a. Array Types.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\obj\Debug\net6.0\a. Array Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\obj\Debug\net6.0\a. Array Types.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\obj\Debug\net6.0\a. Array Types.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\obj\Debug\net6.0\a. Array Types.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\obj\Debug\net6.0\a. Array Types.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\obj\Debug\net6.0\a. Array Types.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\obj\Debug\net6.0\refint\a. Array Types.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\obj\Debug\net6.0\a. Array Types.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\obj\Debug\net6.0\a. Array Types.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Array Types\obj\Debug\net6.0\ref\a. Array Types.dll

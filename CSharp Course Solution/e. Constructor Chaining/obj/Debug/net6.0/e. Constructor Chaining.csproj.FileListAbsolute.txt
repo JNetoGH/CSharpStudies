@@ -1,0 +1,15 @@
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\bin\Debug\net6.0\e. Constructor Chaining.exe
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\bin\Debug\net6.0\e. Constructor Chaining.deps.json
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\bin\Debug\net6.0\e. Constructor Chaining.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\bin\Debug\net6.0\e. Constructor Chaining.dll
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\bin\Debug\net6.0\e. Constructor Chaining.pdb
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\obj\Debug\net6.0\e. Constructor Chaining.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\obj\Debug\net6.0\e. Constructor Chaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\obj\Debug\net6.0\e. Constructor Chaining.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\obj\Debug\net6.0\e. Constructor Chaining.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\obj\Debug\net6.0\e. Constructor Chaining.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\obj\Debug\net6.0\e. Constructor Chaining.dll
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\obj\Debug\net6.0\refint\e. Constructor Chaining.dll
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\obj\Debug\net6.0\e. Constructor Chaining.pdb
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\obj\Debug\net6.0\e. Constructor Chaining.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\e. Constructor Chaining\obj\Debug\net6.0\ref\e. Constructor Chaining.dll

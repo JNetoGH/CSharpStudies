@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Switch Patterns/1.0.0": {
+        "runtime": {
+          "Switch Patterns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Switch Patterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

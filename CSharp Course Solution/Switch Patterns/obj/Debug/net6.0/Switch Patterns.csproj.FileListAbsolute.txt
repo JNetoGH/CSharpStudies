@@ -1,0 +1,15 @@
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\bin\Debug\net6.0\Switch Patterns.exe
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\bin\Debug\net6.0\Switch Patterns.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\bin\Debug\net6.0\Switch Patterns.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\bin\Debug\net6.0\Switch Patterns.dll
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\bin\Debug\net6.0\Switch Patterns.pdb
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\obj\Debug\net6.0\Switch Patterns.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\obj\Debug\net6.0\Switch Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\obj\Debug\net6.0\Switch Patterns.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\obj\Debug\net6.0\Switch Patterns.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\obj\Debug\net6.0\Switch Patterns.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\obj\Debug\net6.0\Switch Patterns.dll
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\obj\Debug\net6.0\refint\Switch Patterns.dll
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\obj\Debug\net6.0\Switch Patterns.pdb
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\obj\Debug\net6.0\Switch Patterns.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\Switch Patterns\obj\Debug\net6.0\ref\Switch Patterns.dll

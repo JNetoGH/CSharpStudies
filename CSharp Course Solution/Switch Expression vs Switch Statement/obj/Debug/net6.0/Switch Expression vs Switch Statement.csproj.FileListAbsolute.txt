@@ -1,0 +1,15 @@
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\bin\Debug\net6.0\Switch Expression vs Switch Statement.exe
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\bin\Debug\net6.0\Switch Expression vs Switch Statement.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\bin\Debug\net6.0\Switch Expression vs Switch Statement.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\bin\Debug\net6.0\Switch Expression vs Switch Statement.dll
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\bin\Debug\net6.0\Switch Expression vs Switch Statement.pdb
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\obj\Debug\net6.0\Switch Expression vs Switch Statement.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\obj\Debug\net6.0\Switch Expression vs Switch Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\obj\Debug\net6.0\Switch Expression vs Switch Statement.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\obj\Debug\net6.0\Switch Expression vs Switch Statement.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\obj\Debug\net6.0\Switch Expression vs Switch Statement.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\obj\Debug\net6.0\Switch Expression vs Switch Statement.dll
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\obj\Debug\net6.0\refint\Switch Expression vs Switch Statement.dll
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\obj\Debug\net6.0\Switch Expression vs Switch Statement.pdb
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\obj\Debug\net6.0\Switch Expression vs Switch Statement.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\Switch Expression vs Switch Statement\obj\Debug\net6.0\ref\Switch Expression vs Switch Statement.dll

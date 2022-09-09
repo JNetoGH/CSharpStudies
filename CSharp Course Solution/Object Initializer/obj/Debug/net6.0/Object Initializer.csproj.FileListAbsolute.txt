@@ -1,0 +1,15 @@
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\bin\Debug\net6.0\Object Initializer.exe
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\bin\Debug\net6.0\Object Initializer.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\bin\Debug\net6.0\Object Initializer.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\bin\Debug\net6.0\Object Initializer.dll
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\bin\Debug\net6.0\Object Initializer.pdb
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\obj\Debug\net6.0\Object Initializer.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\obj\Debug\net6.0\Object Initializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\obj\Debug\net6.0\Object Initializer.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\obj\Debug\net6.0\Object Initializer.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\obj\Debug\net6.0\Object Initializer.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\obj\Debug\net6.0\Object Initializer.dll
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\obj\Debug\net6.0\refint\Object Initializer.dll
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\obj\Debug\net6.0\Object Initializer.pdb
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\obj\Debug\net6.0\Object Initializer.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\Object Initializer\obj\Debug\net6.0\ref\Object Initializer.dll

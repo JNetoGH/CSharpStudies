@@ -1,0 +1,15 @@
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\bin\Debug\net6.0\Social Media Post.exe
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\bin\Debug\net6.0\Social Media Post.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\bin\Debug\net6.0\Social Media Post.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\bin\Debug\net6.0\Social Media Post.dll
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\bin\Debug\net6.0\Social Media Post.pdb
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\obj\Debug\net6.0\Social Media Post.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\obj\Debug\net6.0\Social Media Post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\obj\Debug\net6.0\Social Media Post.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\obj\Debug\net6.0\Social Media Post.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\obj\Debug\net6.0\Social Media Post.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\obj\Debug\net6.0\Social Media Post.dll
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\obj\Debug\net6.0\refint\Social Media Post.dll
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\obj\Debug\net6.0\Social Media Post.pdb
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\obj\Debug\net6.0\Social Media Post.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\Social Media Post\obj\Debug\net6.0\ref\Social Media Post.dll

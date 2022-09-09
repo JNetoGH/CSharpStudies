@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\bin\Debug\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\bin\Debug\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\bin\Debug\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\bin\Debug\net6.0\a. Arrays.exe
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\bin\Debug\net6.0\a. Arrays.deps.json
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\bin\Debug\net6.0\a. Arrays.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\bin\Debug\net6.0\a. Arrays.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\bin\Debug\net6.0\a. Arrays.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\bin\Debug\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\bin\Debug\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\obj\Debug\net6.0\a. Arrays.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\obj\Debug\net6.0\a. Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\obj\Debug\net6.0\a. Arrays.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\obj\Debug\net6.0\a. Arrays.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\obj\Debug\net6.0\a. Arrays.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\obj\Debug\net6.0\a. Arrays.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\obj\Debug\net6.0\a. Arrays.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\obj\Debug\net6.0\refint\a. Arrays.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\obj\Debug\net6.0\a. Arrays.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\obj\Debug\net6.0\a. Arrays.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Arrays\obj\Debug\net6.0\ref\a. Arrays.dll

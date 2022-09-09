@@ -1,0 +1,15 @@
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\bin\Debug\net6.0\d. Static Class and Static Constructor.exe
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\bin\Debug\net6.0\d. Static Class and Static Constructor.deps.json
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\bin\Debug\net6.0\d. Static Class and Static Constructor.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\bin\Debug\net6.0\d. Static Class and Static Constructor.dll
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\bin\Debug\net6.0\d. Static Class and Static Constructor.pdb
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\obj\Debug\net6.0\d. Static Class and Static Constructor.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\obj\Debug\net6.0\d. Static Class and Static Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\obj\Debug\net6.0\d. Static Class and Static Constructor.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\obj\Debug\net6.0\d. Static Class and Static Constructor.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\obj\Debug\net6.0\d. Static Class and Static Constructor.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\obj\Debug\net6.0\d. Static Class and Static Constructor.dll
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\obj\Debug\net6.0\refint\d. Static Class and Static Constructor.dll
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\obj\Debug\net6.0\d. Static Class and Static Constructor.pdb
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\obj\Debug\net6.0\d. Static Class and Static Constructor.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\d. Static Class and Static Constructor\obj\Debug\net6.0\ref\d. Static Class and Static Constructor.dll

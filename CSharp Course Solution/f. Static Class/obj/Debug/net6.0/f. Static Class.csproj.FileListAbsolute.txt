@@ -1,0 +1,15 @@
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\bin\Debug\net6.0\f. Static Class.exe
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\bin\Debug\net6.0\f. Static Class.deps.json
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\bin\Debug\net6.0\f. Static Class.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\bin\Debug\net6.0\f. Static Class.dll
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\bin\Debug\net6.0\f. Static Class.pdb
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\obj\Debug\net6.0\f. Static Class.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\obj\Debug\net6.0\f. Static Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\obj\Debug\net6.0\f. Static Class.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\obj\Debug\net6.0\f. Static Class.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\obj\Debug\net6.0\f. Static Class.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\obj\Debug\net6.0\f. Static Class.dll
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\obj\Debug\net6.0\refint\f. Static Class.dll
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\obj\Debug\net6.0\f. Static Class.pdb
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\obj\Debug\net6.0\f. Static Class.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\f. Static Class\obj\Debug\net6.0\ref\f. Static Class.dll

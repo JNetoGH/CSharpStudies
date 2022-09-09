@@ -1,0 +1,26 @@
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\a. Properties.deps.json
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\a. Properties.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\a. Properties.exe
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\b. Auto-Implemented Properties.exe
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\b. Auto-Implemented Properties.deps.json
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\b. Auto-Implemented Properties.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\b. Auto-Implemented Properties.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\b. Auto-Implemented Properties.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\a. Properties.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\a. Properties.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\bin\Debug\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\obj\Debug\net6.0\b. Auto-Implemented Properties.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\obj\Debug\net6.0\b. Auto-Implemented Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\obj\Debug\net6.0\b. Auto-Implemented Properties.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\obj\Debug\net6.0\b. Auto-Implemented Properties.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\obj\Debug\net6.0\b. Auto-Implemented Properties.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\obj\Debug\net6.0\b. Auto-Implemented Properties.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\obj\Debug\net6.0\b. Auto-Implemented Properties.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\obj\Debug\net6.0\refint\b. Auto-Implemented Properties.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\obj\Debug\net6.0\b. Auto-Implemented Properties.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\obj\Debug\net6.0\b. Auto-Implemented Properties.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Auto-Implemented Properties\obj\Debug\net6.0\ref\b. Auto-Implemented Properties.dll

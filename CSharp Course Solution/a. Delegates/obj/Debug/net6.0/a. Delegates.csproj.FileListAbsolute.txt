@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\bin\Debug\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\bin\Debug\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\bin\Debug\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\bin\Debug\net6.0\a. Delegates.exe
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\bin\Debug\net6.0\a. Delegates.deps.json
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\bin\Debug\net6.0\a. Delegates.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\bin\Debug\net6.0\a. Delegates.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\bin\Debug\net6.0\a. Delegates.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\bin\Debug\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\bin\Debug\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\obj\Debug\net6.0\a. Delegates.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\obj\Debug\net6.0\a. Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\obj\Debug\net6.0\a. Delegates.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\obj\Debug\net6.0\a. Delegates.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\obj\Debug\net6.0\a. Delegates.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\obj\Debug\net6.0\a. Delegates.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\obj\Debug\net6.0\a. Delegates.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\obj\Debug\net6.0\refint\a. Delegates.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\obj\Debug\net6.0\a. Delegates.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\obj\Debug\net6.0\a. Delegates.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Delegates\obj\Debug\net6.0\ref\a. Delegates.dll

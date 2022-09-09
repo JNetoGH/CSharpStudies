@@ -1,0 +1,15 @@
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\bin\Debug\net6.0\b. Built-in Delegates.exe
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\bin\Debug\net6.0\b. Built-in Delegates.deps.json
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\bin\Debug\net6.0\b. Built-in Delegates.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\bin\Debug\net6.0\b. Built-in Delegates.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\bin\Debug\net6.0\b. Built-in Delegates.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\obj\Debug\net6.0\b. Built-in Delegates.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\obj\Debug\net6.0\b. Built-in Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\obj\Debug\net6.0\b. Built-in Delegates.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\obj\Debug\net6.0\b. Built-in Delegates.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\obj\Debug\net6.0\b. Built-in Delegates.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\obj\Debug\net6.0\b. Built-in Delegates.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\obj\Debug\net6.0\refint\b. Built-in Delegates.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\obj\Debug\net6.0\b. Built-in Delegates.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\obj\Debug\net6.0\b. Built-in Delegates.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Built-in Delegates\obj\Debug\net6.0\ref\b. Built-in Delegates.dll

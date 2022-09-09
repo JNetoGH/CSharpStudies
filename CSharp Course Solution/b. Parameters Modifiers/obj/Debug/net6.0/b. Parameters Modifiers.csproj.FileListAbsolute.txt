@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\bin\Debug\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\bin\Debug\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\bin\Debug\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\bin\Debug\net6.0\b. Parameters Modifiers.exe
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\bin\Debug\net6.0\b. Parameters Modifiers.deps.json
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\bin\Debug\net6.0\b. Parameters Modifiers.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\bin\Debug\net6.0\b. Parameters Modifiers.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\bin\Debug\net6.0\b. Parameters Modifiers.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\bin\Debug\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\bin\Debug\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\obj\Debug\net6.0\b. Parameters Modifiers.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\obj\Debug\net6.0\b. Parameters Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\obj\Debug\net6.0\b. Parameters Modifiers.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\obj\Debug\net6.0\b. Parameters Modifiers.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\obj\Debug\net6.0\b. Parameters Modifiers.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\obj\Debug\net6.0\b. Parameters Modifiers.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\obj\Debug\net6.0\b. Parameters Modifiers.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\obj\Debug\net6.0\refint\b. Parameters Modifiers.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\obj\Debug\net6.0\b. Parameters Modifiers.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\obj\Debug\net6.0\b. Parameters Modifiers.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Parameters Modifiers\obj\Debug\net6.0\ref\b. Parameters Modifiers.dll

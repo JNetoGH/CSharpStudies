@@ -1,0 +1,15 @@
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\bin\Debug\net6.0\Alternative Switch.exe
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\bin\Debug\net6.0\Alternative Switch.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\bin\Debug\net6.0\Alternative Switch.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\bin\Debug\net6.0\Alternative Switch.dll
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\bin\Debug\net6.0\Alternative Switch.pdb
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\obj\Debug\net6.0\Alternative Switch.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\obj\Debug\net6.0\Alternative Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\obj\Debug\net6.0\Alternative Switch.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\obj\Debug\net6.0\Alternative Switch.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\obj\Debug\net6.0\Alternative Switch.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\obj\Debug\net6.0\Alternative Switch.dll
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\obj\Debug\net6.0\refint\Alternative Switch.dll
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\obj\Debug\net6.0\Alternative Switch.pdb
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\obj\Debug\net6.0\Alternative Switch.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\Alternative Switch\obj\Debug\net6.0\ref\Alternative Switch.dll

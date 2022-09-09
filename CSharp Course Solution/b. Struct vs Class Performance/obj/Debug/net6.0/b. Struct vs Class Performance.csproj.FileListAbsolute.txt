@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\bin\Debug\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\bin\Debug\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\bin\Debug\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\bin\Debug\net6.0\b. Struct vs Class Performance.exe
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\bin\Debug\net6.0\b. Struct vs Class Performance.deps.json
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\bin\Debug\net6.0\b. Struct vs Class Performance.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\bin\Debug\net6.0\b. Struct vs Class Performance.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\bin\Debug\net6.0\b. Struct vs Class Performance.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\bin\Debug\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\bin\Debug\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\obj\Debug\net6.0\b. Struct vs Class Performance.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\obj\Debug\net6.0\b. Struct vs Class Performance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\obj\Debug\net6.0\b. Struct vs Class Performance.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\obj\Debug\net6.0\b. Struct vs Class Performance.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\obj\Debug\net6.0\b. Struct vs Class Performance.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\obj\Debug\net6.0\b. Struct vs Class Performance.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\obj\Debug\net6.0\b. Struct vs Class Performance.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\obj\Debug\net6.0\refint\b. Struct vs Class Performance.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\obj\Debug\net6.0\b. Struct vs Class Performance.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\obj\Debug\net6.0\b. Struct vs Class Performance.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Struct vs Class Performance\obj\Debug\net6.0\ref\b. Struct vs Class Performance.dll

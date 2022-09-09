@@ -1,0 +1,15 @@
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\bin\Debug\net6.0\Atividade Enum.exe
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\bin\Debug\net6.0\Atividade Enum.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\bin\Debug\net6.0\Atividade Enum.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\bin\Debug\net6.0\Atividade Enum.dll
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\bin\Debug\net6.0\Atividade Enum.pdb
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\obj\Debug\net6.0\Atividade Enum.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\obj\Debug\net6.0\Atividade Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\obj\Debug\net6.0\Atividade Enum.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\obj\Debug\net6.0\Atividade Enum.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\obj\Debug\net6.0\Atividade Enum.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\obj\Debug\net6.0\Atividade Enum.dll
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\obj\Debug\net6.0\refint\Atividade Enum.dll
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\obj\Debug\net6.0\Atividade Enum.pdb
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\obj\Debug\net6.0\Atividade Enum.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\Atividade Enum\obj\Debug\net6.0\ref\Atividade Enum.dll

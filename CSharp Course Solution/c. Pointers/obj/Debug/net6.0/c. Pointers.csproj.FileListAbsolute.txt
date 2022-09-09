@@ -1,0 +1,15 @@
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\bin\Debug\net6.0\c. Pointers.exe
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\bin\Debug\net6.0\c. Pointers.deps.json
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\bin\Debug\net6.0\c. Pointers.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\bin\Debug\net6.0\c. Pointers.dll
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\bin\Debug\net6.0\c. Pointers.pdb
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\obj\Debug\net6.0\c. Pointers.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\obj\Debug\net6.0\c. Pointers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\obj\Debug\net6.0\c. Pointers.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\obj\Debug\net6.0\c. Pointers.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\obj\Debug\net6.0\c. Pointers.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\obj\Debug\net6.0\c. Pointers.dll
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\obj\Debug\net6.0\refint\c. Pointers.dll
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\obj\Debug\net6.0\c. Pointers.pdb
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\obj\Debug\net6.0\c. Pointers.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\c. Pointers\obj\Debug\net6.0\ref\c. Pointers.dll

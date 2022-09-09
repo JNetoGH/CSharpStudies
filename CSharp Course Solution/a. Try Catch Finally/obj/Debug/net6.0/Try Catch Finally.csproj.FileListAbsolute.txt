@@ -1,0 +1,15 @@
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\bin\Debug\net6.0\Try Catch Finally.exe
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\bin\Debug\net6.0\Try Catch Finally.deps.json
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\bin\Debug\net6.0\Try Catch Finally.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\bin\Debug\net6.0\Try Catch Finally.dll
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\bin\Debug\net6.0\Try Catch Finally.pdb
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\obj\Debug\net6.0\Try Catch Finally.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\obj\Debug\net6.0\Try Catch Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\obj\Debug\net6.0\Try Catch Finally.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\obj\Debug\net6.0\Try Catch Finally.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\obj\Debug\net6.0\Try Catch Finally.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\obj\Debug\net6.0\Try Catch Finally.dll
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\obj\Debug\net6.0\refint\Try Catch Finally.dll
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\obj\Debug\net6.0\Try Catch Finally.pdb
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\obj\Debug\net6.0\Try Catch Finally.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\Try Catch Finally\obj\Debug\net6.0\ref\Try Catch Finally.dll

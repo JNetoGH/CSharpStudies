@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "a. Params/1.0.0": {
+        "dependencies": {
+          "GeneralRes": "1.0.0"
+        },
+        "runtime": {
+          "a. Params.dll": {}
+        }
+      },
+      "GeneralRes/1.0.0": {
+        "runtime": {
+          "GeneralRes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "a. Params/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeneralRes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

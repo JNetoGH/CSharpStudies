@@ -1,0 +1,15 @@
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\bin\Debug\net6.0\b. Custom Excepetions.exe
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\bin\Debug\net6.0\b. Custom Excepetions.deps.json
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\bin\Debug\net6.0\b. Custom Excepetions.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\bin\Debug\net6.0\b. Custom Excepetions.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\bin\Debug\net6.0\b. Custom Excepetions.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\obj\Debug\net6.0\b. Custom Excepetions.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\obj\Debug\net6.0\b. Custom Excepetions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\obj\Debug\net6.0\b. Custom Excepetions.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\obj\Debug\net6.0\b. Custom Excepetions.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\obj\Debug\net6.0\b. Custom Excepetions.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\obj\Debug\net6.0\b. Custom Excepetions.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\obj\Debug\net6.0\refint\b. Custom Excepetions.dll
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\obj\Debug\net6.0\b. Custom Excepetions.pdb
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\obj\Debug\net6.0\b. Custom Excepetions.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\b. Custom Excepetions\obj\Debug\net6.0\ref\b. Custom Excepetions.dll

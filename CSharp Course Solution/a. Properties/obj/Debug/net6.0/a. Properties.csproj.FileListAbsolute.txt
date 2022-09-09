@@ -1,0 +1,21 @@
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\bin\Debug\net6.0\GeneralRes.deps.json
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\bin\Debug\net6.0\GeneralRes.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\bin\Debug\net6.0\GeneralRes.exe
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\bin\Debug\net6.0\a. Properties.exe
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\bin\Debug\net6.0\a. Properties.deps.json
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\bin\Debug\net6.0\a. Properties.runtimeconfig.json
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\bin\Debug\net6.0\a. Properties.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\bin\Debug\net6.0\a. Properties.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\bin\Debug\net6.0\GeneralRes.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\bin\Debug\net6.0\GeneralRes.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\obj\Debug\net6.0\a. Properties.csproj.AssemblyReference.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\obj\Debug\net6.0\a. Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\obj\Debug\net6.0\a. Properties.AssemblyInfoInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\obj\Debug\net6.0\a. Properties.AssemblyInfo.cs
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\obj\Debug\net6.0\a. Properties.csproj.CoreCompileInputs.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\obj\Debug\net6.0\a. Properties.csproj.CopyComplete
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\obj\Debug\net6.0\a. Properties.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\obj\Debug\net6.0\refint\a. Properties.dll
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\obj\Debug\net6.0\a. Properties.pdb
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\obj\Debug\net6.0\a. Properties.genruntimeconfig.cache
+C:\Dev\C# Course\CSharp Course Solution\a. Properties\obj\Debug\net6.0\ref\a. Properties.dll
